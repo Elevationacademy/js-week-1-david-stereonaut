@@ -1,0 +1,26 @@
+
+#container {
+    background-color: purple;
+    display: inline-block;
+    box-shadow: 4px 4px 3px 1px green;
+}
+
+span:first-child {
+    height: 50px;
+    width: 50px;
+    background-color: aquamarine;
+    display: inline-block;
+    border: solid 1px;
+}
+
+span:nth-child(2) {
+    height: 50px;
+    width: 50px;
+    background-color: orange;
+    display: inline-block;
+    border: solid 1px;
+}
+
+button {
+    background-color: greenyellow;
+}

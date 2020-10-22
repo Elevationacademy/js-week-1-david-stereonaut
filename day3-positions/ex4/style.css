@@ -1,0 +1,25 @@
+#all {
+    display: inline-block;
+    background-color: darkred;
+    border: solid 1px;
+}
+
+.block {
+    background-color: #66320E;
+    height: 50px;
+    width: 50px;
+    float: left;
+    border: solid 2px;
+}
+
+#block5 {
+    clear: left;
+}
+
+.bottom {
+    margin-top: 3px;
+}
+
+#block8 {
+    background-color: black;
+}
